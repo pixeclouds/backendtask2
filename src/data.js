@@ -1,6 +1,6 @@
 exports.data = [
   {
-    id: 1,
+    id: 1,  
     status: "active",
     id: "nodejs-masterclass",
     header_image:
