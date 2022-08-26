@@ -2,7 +2,6 @@ exports.data = [
   {
     id: 1,  
     status: "active",
-    id: "nodejs-masterclass",
     header_image:
       "https://images.unsplash.com/photo-1581093805071-a04e696db334?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=50",
     title: "Building Applications with NodeJS from Zero to One",
