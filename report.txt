@@ -1,0 +1,7 @@
+Your code need more comments.
+Ensure you maintain proper folder structures always.
+Add proper comments to your js code. This would server as proper documentation to other developers.
+
+Nice work with the error handling.
+
+I would also need to see data validation in the next code. I believe i will.
